@@ -1,0 +1,22 @@
+# Python virtual environment
+backend/venv/
+backend/.env
+backend/skillsphere.db
+backend/__pycache__/
+backend/scratch/
+*.pyc
+
+# Node dependencies and build
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
